@@ -1,9 +1,10 @@
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/naybala/naybala/assets/61843418/a25f1e29-8303-45be-ae8c-ee420bfc2ce9" alt="qr logo" width="100" height="100" />
+
 - 👋 Hello, I’m Nay Ba La, a web developer.
 - 👀 I’m currently learning @new technlogices.
 - 🌱 I’m currently working with @php @mysql @laravel and @reactjs.
 - 📫 How to reach me ... naybala.personal@gmail.com
 
-  
 &nbsp;&nbsp;&nbsp;&nbsp;💻 Main Tech Stack
 
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html logo" width="40" height="40" />&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css logo" width="40" height="40" />&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="js logo" width="40" height="40" />&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react logo" width="40" height="40" />&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php logo" width="40" height="40" />&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-line-wordmark.svg" alt="laravel logo" width="40" height="40" />&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" alt="mysql logo" width="40" height="40" /> 
