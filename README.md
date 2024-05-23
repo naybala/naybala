@@ -1,7 +1,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/naybala/naybala/assets/61843418/b1cc288b-94c1-46e2-b50f-f71de57ed77a" alt="loading logo" width="auto" height="100" /><img src="https://github.com/naybala/naybala/assets/61843418/a25f1e29-8303-45be-ae8c-ee420bfc2ce9" alt="qr logo" width="100" height="100" /><img src="https://github.com/naybala/naybala/assets/61843418/b1cc288b-94c1-46e2-b50f-f71de57ed77a" alt="loading logo" width="auto" height="100" />
 &nbsp;&nbsp;&nbsp;&nbsp;<p>If you are from myanmar,🫠,use Vpn for scan here!</p>
 - 👋 Hello, I’m Nay Ba La, a web developer.
-- 👀 I’m currently learning @new technlogices.
+- 👀 I’m currently learning @new technologies.
 - 🌱 I’m currently working with @php @mysql @laravel and @reactjs.
 - 📫 How to reach me ... naybala.personal@gmail.com
 
