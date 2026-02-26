@@ -12,8 +12,7 @@
 ## Github Profile
 
 <div>
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=naybala&count_private=true&theme=cobalt&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naybala&layout=compact&langs_count=7&theme=cobalt"/>
+
   <img height="250em" src="https://github-readme-activity-graph.vercel.app/graph?username=naybala&hide_border=true&theme=github-compact"/>
   <br/>
   <br/>
