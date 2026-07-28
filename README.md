@@ -1,61 +1,134 @@
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/naybala/naybala/assets/61843418/b1cc288b-94c1-46e2-b50f-f71de57ed77a" alt="loading logo" width="auto" height="100" /><img src="https://github.com/naybala/naybala/assets/61843418/a25f1e29-8303-45be-ae8c-ee420bfc2ce9" alt="qr logo" width="100" height="100" /><img src="https://github.com/naybala/naybala/assets/61843418/b1cc288b-94c1-46e2-b50f-f71de57ed77a" alt="loading logo" width="auto" height="100" />
-&nbsp;&nbsp;&nbsp;&nbsp;<p>If you are from myanmar,🫠,use Vpn for scan here!</p>
-- 👋 Hello, I’m Nay Ba La, a web developer.
-- 👀 I’m currently learning @new technologies.
-- 🌱 I’m currently working with @php @mysql @laravel and @reactjs.
-- 📫 How to reach me ... naybala.personal@gmail.com
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+<h1 align="center">Hi 👋, I'm Nay Ba La</h1>
 
-![Next JS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Nuxt JS](https://img.shields.io/badge/nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
-![Svelte](https://img.shields.io/badge/svelte-%23FF3E00.svg?style=for-the-badge&logo=svelte&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+<h3 align="center">
+Senior Full Stack Web Developer from Myanmar 🇲🇲
+</h3>
 
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+<p align="center">
+Building scalable web applications with Laravel, NestJS, Nuxt, React & Next.js
+</p>
 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+<p align="center">
+<a href="https://github.com/naybala">
+<img src="https://komarev.com/ghpvc/?username=naybala&label=Profile%20Views&color=0e75b6&style=flat" />
+</a>
+</p>
 
-![SSR](https://img.shields.io/badge/SSR-Server%20Side%20Rendering-blue?style=for-the-badge)
+---
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+# 🚀 About Me
 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+- 💼 Senior Full Stack Web Developer
+- 🧠 4+ years of professional experience
+- ⚡ Backend: Laravel, NestJS, Node.js
+- 🎨 Frontend: Vue, Nuxt, React, Next.js
+- 🗄 Database: MySQL, PostgreSQL, Redis
+- ☁ Docker, Linux, Nginx, PM2
+- 🌱 Currently learning System Design & Cloud Architecture
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=naybala&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=naybala&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=naybala&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
 
-## 👾 Contribution Graph
+# 🛠 Tech Stack
+
+### Backend
+
+![Laravel](https://skillicons.dev/icons?i=laravel,nodejs,nestjs,php)
+
+### Frontend
+
+![Frontend](https://skillicons.dev/icons?i=vue,nuxtjs,react,nextjs,ts,js,tailwind)
+
+### Database
+
+![Database](https://skillicons.dev/icons?i=mysql,postgres,redis)
+
+### DevOps
+
+![DevOps](https://skillicons.dev/icons?i=docker,linux,nginx,git,github,vscode)
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=naybala&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=naybala&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naybala&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=naybala&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/naybala/naybala/output/github-contribution-grid-snake-dark.svg"
-  />
-  <img
-    src="https://raw.githubusercontent.com/naybala/naybala/output/github-contribution-grid-snake.svg"
-  />
+
+<source
+media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/naybala/naybala/output/github-contribution-grid-snake-dark.svg">
+
+<img
+src="https://raw.githubusercontent.com/naybala/naybala/output/github-contribution-grid-snake.svg">
+
 </picture>
 
+---
 
-## Github Profile
-<div>
-  <img height="250em" src="https://github-readme-activity-graph.vercel.app/graph?username=naybala&hide_border=true&theme=github-compact"/>
-</div>
-<!---
-naybala/naybala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 📌 Featured Projects
+
+### 🏨 LM Hostel
+
+Hotel Management System built with Laravel + Vue.
+
+---
+
+### 🎯 Support Ticket Portal
+
+Multi-tenant Support Ticket System using Laravel + Inertia + Vue.
+
+---
+
+### 🧾 POS Accounting
+
+Accounting backend built with NestJS.
+
+---
+
+### 🎁 App Reward
+
+Reward platform with Payment Gateway Integration.
+
+---
+
+# 📫 Connect with Me
+
+<p>
+
+<a href="https://github.com/naybala">
+GitHub
+</a>
+
+</p>
+
+⭐ Thanks for visiting my profile!
