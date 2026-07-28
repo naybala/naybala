@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Nay Ba La</h1>
 
 <h3 align="center">
-Senior Full Stack Developer
+Full Stack Developer
 </h3>
 
 <p align="center">
@@ -9,16 +9,23 @@ Laravel • NestJS • Nuxt • React • Next.js • DevOps
 </p>
 
 <p align="center">
+<a href="https://github.com/naybala">
+<img src="https://komarev.com/ghpvc/?username=naybala&label=Profile%20Views&color=0e75b6&style=flat" />
+</a>
+  <a href="https://github.com/naybala">
+    <img src="https://komarev.com/ghpvc/?username=naybala&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  </a>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1200&center=true&vCenter=true&width=700&lines=Senior+Full+Stack+Developer;Laravel+%7C+NestJS+%7C+Nuxt;React+%7C+Next.js+Developer;Clean+Architecture+Enthusiast;Always+Learning+🚀" />
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Laravel+%7C+NestJS+%7C+Nuxt+%7C+React;Passionate+about+Clean+Architecture;Always+Learning+New+Technologies" />
 </p>
 
 ---
 
 # 💫 About Me
 
-🚀 Senior Full Stack Developer
+🚀 Full Stack Developer
 
 💼 4+ Years Experience
 
@@ -76,7 +83,7 @@ src="https://raw.githubusercontent.com/naybala/naybala/output/github-contributio
 
 ---
 
-# 🚀 Featured Projects
+<!-- # 🚀 Featured Projects
 
 | Project | Tech |
 |----------|------|
@@ -86,7 +93,7 @@ src="https://raw.githubusercontent.com/naybala/naybala/output/github-contributio
 | 🎁 App Reward | Laravel |
 | 📦 Nest Code Generator | NestJS |
 
----
+--- -->
 
 # 📫 Contact
 
