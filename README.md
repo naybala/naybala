@@ -38,6 +38,29 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=naybala&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=naybala&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 👾 Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github.com/naybala/github-pacman/raw/output/pacman-contribution-graph-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github.com/naybala/github-pacman/raw/output/pacman-contribution-graph.svg"
+  />
+  <img
+    alt="Pacman contribution graph"
+    src="https://github.com/naybala/github-pacman/raw/output/pacman-contribution-graph.svg"
+  />
+</picture>
+
+</div>
+
+---
+
 ## Github Profile
 <div>
   <img height="250em" src="https://github-readme-activity-graph.vercel.app/graph?username=naybala&hide_border=true&theme=github-compact"/>
