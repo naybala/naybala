@@ -9,9 +9,6 @@ Laravel • NestJS • Nuxt • React • Next.js • DevOps
 </p>
 
 <p align="center">
-<a href="https://github.com/naybala">
-<img src="https://komarev.com/ghpvc/?username=naybala&label=Profile%20Views&color=0e75b6&style=flat" />
-</a>
   <a href="https://github.com/naybala">
     <img src="https://komarev.com/ghpvc/?username=naybala&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
   </a>
@@ -65,18 +62,20 @@ Laravel • NestJS • Nuxt • React • Next.js • DevOps
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
+## 👾 Contribution Graph
 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/naybala/naybala/output/github-contribution-grid-snake-dark.svg"/>
+    srcset="https://raw.githubusercontent.com/naybala/naybala/output/github-contribution-grid-snake-dark.svg">
 
-<img
-src="https://raw.githubusercontent.com/naybala/naybala/output/github-contribution-grid-snake.svg"/>
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/naybala/naybala/output/github-contribution-grid-snake.svg">
 
+  <img
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/naybala/naybala/output/github-contribution-grid-snake.svg">
 </picture>
 
 </p>
