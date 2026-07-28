@@ -18,6 +18,16 @@ Laravel • NestJS • Nuxt • React • Next.js • DevOps
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Laravel+%7C+NestJS+%7C+Nuxt+%7C+React;Passionate+about+Clean+Architecture;Always+Learning+New+Technologies" />
 </p>
 
+<div align="center">
+<img src="assets/image.png" width="80%" alt="naybala" />
+
+<br>
+
+[![Portfolio](https://img.shields.io/badge/Explore_Portfolio-FFFFFF?style=for-the-badge&logo=safari&logoColor=000000)](https://naybala.netlify.app/)
+</div>
+
+
+
 ---
 
 # 💫 About Me
