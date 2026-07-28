@@ -40,25 +40,16 @@
 
 ## 👾 Contribution Graph
 
-<div align="center">
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github.com/naybala/github-pacman/raw/output/pacman-contribution-graph-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github.com/naybala/github-pacman/raw/output/pacman-contribution-graph.svg"
+    srcset="https://github.com/naybala/naybala/blob/output/github-contribution-grid-snake-dark.svg"
   />
   <img
-    alt="Pacman contribution graph"
-    src="https://github.com/naybala/github-pacman/raw/output/pacman-contribution-graph.svg"
+    alt="GitHub contribution snake"
+    src="https://github.com/naybala/naybala/blob/output/github-contribution-grid-snake.svg"
   />
 </picture>
-
-</div>
-
 ---
 
 ## Github Profile
