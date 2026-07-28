@@ -94,13 +94,29 @@ Laravel • NestJS • Nuxt • React • Next.js • DevOps
 
 --- -->
 
-# 📫 Contact
+## 📫 Connect with Me
 
 <p align="center">
 
-<a href="https://github.com/naybala">
-<img src="https://skillicons.dev/icons?i=github"/>
+<a href="https://github.com/naybala" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
+<a href="mailto:naybala.personal@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://t.me/neverDavion" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+
+<a href="viber://chat?number=%2B959763684400">
+  <img src="https://img.shields.io/badge/Viber-7360F2?style=for-the-badge&logo=viber&logoColor=white" />
+</a>
+
+<!-- <a href="https://facebook.com/your.facebook" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a> -->
 
 </p>
 
