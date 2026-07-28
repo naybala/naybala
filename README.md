@@ -43,14 +43,18 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github.com/naybala/naybala/blob/output/github-contribution-grid-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/naybala/naybala/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/naybala/naybala/output/github-contribution-grid-snake.svg"
   />
   <img
     alt="GitHub contribution snake"
-    src="https://github.com/naybala/naybala/blob/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/naybala/naybala/output/github-contribution-grid-snake.svg"
   />
 </picture>
----
+
 
 ## Github Profile
 <div>
