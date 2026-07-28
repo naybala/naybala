@@ -95,30 +95,6 @@ src="https://raw.githubusercontent.com/naybala/naybala/output/github-contributio
 
 ---
 
-# 📌 Featured Projects
-
-### 🏨 LM Hostel
-
-Hotel Management System built with Laravel + Vue.
-
----
-
-### 🎯 Support Ticket Portal
-
-Multi-tenant Support Ticket System using Laravel + Inertia + Vue.
-
----
-
-### 🧾 POS Accounting
-
-Accounting backend built with NestJS.
-
----
-
-### 🎁 App Reward
-
-Reward platform with Payment Gateway Integration.
-
 ---
 
 # 📫 Connect with Me
