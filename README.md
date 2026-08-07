@@ -19,7 +19,7 @@ Laravel • NestJS • Nuxt • React • Next.js • DevOps
 </p>
 
 <div align="center">
-<img src="assets/image.png" width="80%" alt="naybala" />
+<img src="assets/image copy.png" width="80%" alt="naybala" />
 
 <br>
 
